@@ -3,17 +3,17 @@
     padding-top: 94px;
     padding-bottom: 94px;
   }
-  .section-advantages-list{
+  .section-advantages__list{
     display: flex;
     align-items: center;
     justify-content: space-between;
   }
   
-  .section-advantages-item{
+  .section-advantages__item{
     width: 270px;
   }
   
-  .section-advantages-title{
+  .section-advantages__title{
     font-weight: bold;
     font-size: 14px;
     line-height: 1.14;
@@ -23,7 +23,7 @@
     margin-bottom: 10px;
   }
   
-  .section-advantages-text{
+  .section-advantages__text{
     font-weight: normal;
     font-size: 14px;
     line-height: 1.71;

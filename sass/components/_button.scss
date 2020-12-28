@@ -1,0 +1,19 @@
+.button{
+    font-family: var(--main-font);
+     font-weight: bold;
+     font-size: 16px;
+     line-height: 1.87;
+     text-align: center;
+     letter-spacing: 0.06em;
+     color: #FFFFFF;
+     background-color:#2196F3 ;
+  
+     min-width: 200px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     display:block;
+     border: none;
+     cursor: pointer;
+     border-radius: 4px;
+     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    }

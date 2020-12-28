@@ -3,13 +3,13 @@
     padding-bottom: 94px;
   }
   
-  .section-adout-list{
+  .section-adout__list{
     display: flex;
     justify-content: space-between;
   }
   
   /* Текст на картинке */
-  .section-adout-text{
+  .section-adout__text{
     font-family:var(--main-font);
     font-weight: bold;
     font-size: 14px;
@@ -31,6 +31,6 @@
     position: absolute;
   }
   
-  .section-about-item{
+  .section-about__item{
     position: relative;
   }

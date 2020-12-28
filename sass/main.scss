@@ -6,6 +6,14 @@
 @import "./utils/variables";
 @import "./utils/visually-hidden";
 
+//components
+@import "./components/components";
+@import "./components/subtitle";
+@import "./components/logo";
+@import "./components/button";
+@import "./components/social-links";
+@import "./components/slogan";
+
 //layot
 @import "./layout/header";
 @import "./layout/hero";
@@ -20,6 +28,3 @@
 @import "./layout/modal";
 @import "./layout/modal-form-footer";
 
-//components
-@import "./components/components";
-@import "./components/subtitle";

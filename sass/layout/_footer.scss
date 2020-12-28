@@ -9,15 +9,15 @@
     align-items: baseline;
   }
   
-  .footer-adress-container{
+  .footer-adress__container{
     margin-right: 84px;
   }
   
-  .footer-social-links{
+  .footer__social-links{
     margin-right: 93px;
   }
   
-  .address{
+  .footer-contact__address{
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -27,15 +27,16 @@
   
     display: block;
     margin-bottom: 9px;
+    margin-top: 20px;
   }
   
-  .footer-contact-email{
+  .footer-contact__email{
     display: block;
     margin-bottom: 9px;
   }
   
-  .footer-contact-phone,
-  .footer-contact-email{
+  .footer-contact__phone,
+  .footer-contact__email{
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -45,31 +46,8 @@
     text-decoration: none;
   }
   
-  .logo-footer{
-    font-family: var(--secondary-font);
-    font-weight: bold;
-    font-size: 26px;
-    line-height: 1.19;
-    letter-spacing: 0.03em;
-    color:#FFFFFF;
-    text-decoration: none;
   
-    display: block;
-    margin-bottom: 20px;
-  }
-  
-  .slogan{
-    font-family: var(--main-font);
-  font-weight: bold;
-  font-size: 14px;
-  line-height: 1.14;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #FFFFFF;
-  margin-bottom: 20px;
-  }
-  
-  .footer .social-link{
+  .social-links-list__link--footer{
     background-color: rgba(255, 255, 255, 0.1);
     color: #FFFFFF;
   
